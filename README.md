@@ -1,5 +1,7 @@
 # 兵击中国剑『龙息』
 
+<img width="1242" height="387" alt="image" src="https://github.com/user-attachments/assets/ac6f77e1-8a33-4203-8cac-342b44d1a202" />
+
 ## 声明
 
 本项目遵循[MIT协议](https://mitsloan.mit.edu/licensing)，允许自由使用、复制、修改、合并、发布、分发和商业化。
