@@ -2,7 +2,7 @@
 
 ## 声明
 
-本项目遵循**[MIT协议](https://mitsloan.mit.edu/licensing)**，允许自由使用、复制、修改、合并、发布、分发和商业化。
+本项目遵循[MIT协议](https://mitsloan.mit.edu/licensing)，允许自由使用、复制、修改、合并、发布、分发和商业化。
 
 不保障项目绝对安全，使用本项目请自负一切后果。
 
