@@ -10,7 +10,7 @@
 
 本项目为减伤体育用品设计，请勿用于违反法律法规用途。
 
-制作成品无需用到任何工业设计专业知识，如有兴趣，可跟随[下方教程](https://github.com/ColinCCCC/DragonBreath.Hema-Chinese-Sword/tree/main?tab=readme-ov-file#%E6%88%90%E5%93%81%E5%88%B6%E4%BD%9C)进行制作。
+制作成品**无需用到任何工业设计专业知识**，如有兴趣，可跟随[下方教程](https://github.com/ColinCCCC/DragonBreath.Hema-Chinese-Sword/tree/main?tab=readme-ov-file#%E6%88%90%E5%93%81%E5%88%B6%E4%BD%9C)进行制作。
 
 ## 成品数据
 
