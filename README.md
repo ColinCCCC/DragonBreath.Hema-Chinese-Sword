@@ -35,6 +35,7 @@
 *所需DXF/DWG文件及其对应厚度如下：*
 
 - 剑条【3mm】[blade.DXF](https://github.com/ColinCCCC/DragonBreath.Hema-Chinese-Sword/blob/main/blade.DXF)
+- 剑条【3mm】[blade.DWG](https://github.com/ColinCCCC/DragonBreath.Hema-Chinese-Sword/blob/main/blade.DWG)
 
 #### 手柄打印
 
